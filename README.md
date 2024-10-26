@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/NOOTHIBOT/c.git
 git push -u origin main
 # c
+# c
